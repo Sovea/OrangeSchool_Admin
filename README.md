@@ -1,5 +1,5 @@
 # nideshop-admin
-Node.js开源商城NideShop管理后台（基于Node.js、Vue.js、Element UI、Electron）
+Node.js开源商城NideShop管理后台二次开发（基于Node.js、Vue.js、Element UI、Electron）
 
 
 
@@ -9,6 +9,9 @@ Node.js开源商城NideShop管理后台（基于Node.js、Vue.js、Element UI、
 + 品牌管理
 + 会员管理
 + 订单管理
++ 论坛文章管理
++ 广告栏管理
++ 二手商品管理
 
 ### Build Setup
 
